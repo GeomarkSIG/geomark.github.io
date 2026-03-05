@@ -2,28 +2,32 @@
 
 ---
 
-### Category Name 1 
+### Categorie 1 
 
-[Project 1 Title](/sample_page)
+[Projet SIG - ATEAU](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Projet SIG - Ambition TELECOM Réseau](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Projet SIG - CCIAG](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Projet SIG - Lumiforte](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Categorie 2
 
-### Category Name 2
+[Projets Cart'ONG](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Extrait de plan ATEAU](http://example.com/)
+- [Extrait de plan de récolement - application TIGRE](http://example.com/)
+- [Carte de la distribution de réseau de chaleur](http://example.com/)
+- [Distribution des serres en France](http://example.com/)
+
 
 ---
 
