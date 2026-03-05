@@ -2,34 +2,35 @@
 
 ---
 
-### Categorie 1 
+### Projets professionnels
 
-[Projet SIG - ATEAU](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+[Projet SIG - A.T.EAU](/pdf/sample_presentation.pdf)
+<center><img src="images/dummy_thumbnail.jpg?raw=true"/></center>
+- [Extrait de plan de réseau EU/EP](http://example.com/)
 ---
 [Projet SIG - Ambition TELECOM Réseau](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+<center><img src="images/dummy_thumbnail.jpg?raw=true"/></center>
+- [Extrait de plan de récolement - application TIGRE](http://example.com/)
 ---
-[Projet SIG - CCIAG](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+<center>[Projet SIG - CCIAG](http://example.com/)</center>
+<center><img src="images/dummy_thumbnail.jpg?raw=true"/></center>
+- [Carte de la distribution de réseau de chaleur](http://example.com/)
 ---
 [Projet SIG - Lumiforte](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-### Categorie 2
+<center><img src="images/dummy_thumbnail.jpg?raw=true"/></center>
+- [Distribution des serres en France](http://example.com/)
+  
+### Projets personnels
 
 [Projets Cart'ONG](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<center><img src="images/dummy_thumbnail.jpg?raw=true"/></center>
 
-- [Extrait de plan ATEAU](http://example.com/)
-- [Extrait de plan de récolement - application TIGRE](http://example.com/)
-- [Carte de la distribution de réseau de chaleur](http://example.com/)
-- [Distribution des serres en France](http://example.com/)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]
 
 
----
+
+
+
 
 
 
