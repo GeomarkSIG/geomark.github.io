@@ -1,6 +1,18 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
 <head>
+   <style>
+    /* Ce bloc remplace l'absence de dossier _sass */
+    .main-header-image {
+        width: 100%;
+        height: 350px; /* Hauteur de la bannière */
+        background-image: url('/images/Logo_Geomark.jpg'); /* VERIFIEZ LE NOM ICI */
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        margin-bottom: 30px;
+    }
+  </style>
    {% if site.google_analytics %}
    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
    <script>
