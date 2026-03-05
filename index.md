@@ -19,14 +19,14 @@
 ---
 
 [Projet SIG - CCIAG](http://example.com/)
-<center><img src="images/dummy_thumbnail.jpg?raw=true"/></center>
+<center><img src="images/Carte_CCIAG.png?raw=true"/></center>
 - [Carte de la distribution de réseau de chaleur](http://example.com/)
 
 
 ---
 
 [Projet SIG - Lumiforte](http://example.com/)
-<center><img src="images/dummy_thumbnail.jpg?raw=true"/></center>
+<center><img src="images/Carte_LUMIFORTE.png?raw=true"/></center>
 - [Distribution des serres en France](http://example.com/)
  
 
